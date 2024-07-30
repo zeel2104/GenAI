@@ -1,0 +1,23 @@
+{
+  "Partionkey": [
+    "PartitionKey"
+  ],
+  "Rowkey": [
+    "RowKey"
+  ],
+  "subcategory": [
+    "Subcategory"
+  ],
+  "question": [
+    "Question"
+  ],
+  "answer": [
+    "Answer"
+  ],
+  "difficulty": [
+    "Difficulty"
+  ],
+  "options": [
+    "Options"
+  ]
+}
