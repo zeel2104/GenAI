@@ -1,5 +1,5 @@
 import openai
-api_key = 'sk-proj-FhWYYZqWl0Ls2N12NvHOT3BlbkFJFlC955c5Yefhk4kuU2Qi'
+api_key = ''
 
 # Set your OpenAI API key here
 from openai import OpenAI
